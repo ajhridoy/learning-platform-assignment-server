@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "courseName": "Advanced Algorithms",
+        "img": "https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2008/67859e9fc78239f07aad05ffb4f0c7a4_6-854jf08.jpg",
+        "desc": "This is a course on the design and analysis of algorithms, covering several advanced topics not studied in typical introductory courses on algorithms. It is especially designed for doctoral students interested in theoretical computer science.",
+        "instractor": "Prof. Michel Goemans"
+    },
+    {
+        "id": 2,
+        "courseName": "Distributed Algorithms",
+        "img": "https://ocw.mit.edu/courses/6-852j-distributed-algorithms-fall-2009/cbf5c77ae27ece354f52f3d12ee55431_6-852jf09.jpg",
+        "desc": "Distributed algorithms are algorithms designed to run on multiple processors, without tight centralized control. In general, they are harder to design and harder to understand than single-processor sequential algorithms. Distributed algorithms are used in many practical systems, ranging from large computer networks to multiprocessor shared-memory systems. They also have a rich theory, which forms the subject matter for this course.",
+        "instractor": "Prof. Nancy Lynch"
+    },
+    {
+        "id": 3,
+        "courseName": "Information and Entropy",
+        "img": "https://slideplayer.com/slide/1663636/7/images/17/Information+Entropy+For+a+Bernoulli+trial+%28X+%3D+%7B0%2C1%7D%29+the+graph+of+entropy+vs..jpg",
+        "desc": "This course explores the ultimate limits to communication and computation, with an emphasis on the physical nature of information and information processing. Topics include: information and computation, digital signals, codes and compression, applications such as biological representations of information, logic circuits, computer architectures, and algorithmic information, noise, probability, error correction, reversible and irreversible operations, physics of computation, and quantum computation.",
+        "instractor": "Prof. Paul Penfield"
+    },
+    {
+        "id": 4,
+        "courseName": "Machine Learning",
+        "img": "https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/6fc42e1b17babba77f04228a00b1e110_6-867f06.jpg",
+        "desc": "This is an introductory course on machine learning which gives an overview of many concepts, techniques, and algorithms in machine learning, beginning with topics such as classification and linear regression and ending up with more recent topics such as boosting, support vector machines, hidden Markov models, and Bayesian networks. The underlying theme in the course is statistical inference as it provides the foundation for most of the methods covered.",
+        "instractor": "Prof. Tommi Jaakkola"
+    },
+    {
+        "id": 5,
+        "courseName": "Artificial Intelligence",
+        "img": "https://cdn.corporatefinanceinstitute.com/assets/artificial-intelligence-1024x512.jpeg",
+        "desc": "This course introduces students to the basic knowledge representation, problem solving, and learning methods of artificial intelligence. Upon completion of 6.034, students should be able to develop intelligent systems by assembling solutions to concrete computational problems; understand the role of knowledge representation, problem solving, and learning in intelligent-system engineering.",
+        "instractor": "Patrick Henry Winston"
+    },
+    {
+        "id": 6,
+        "courseName": "Medical Computing",
+        "img": "https://ocw.mit.edu/courses/hst-950j-medical-computing-spring-2003/36abf33ed3360e593e9ece30ece018e0_hst-950js03.jpg",
+        "desc": "The focus of the course is on medical science and practice in the age of automation and the genome, both present and future.It ncludes an analysis of the computational needs of clinical medicine, a review systems and approaches that have been used to support those needs, and an examination of new technologies..",
+        "instractor": "Prof. Peter Szolovits"
+    }
+]
