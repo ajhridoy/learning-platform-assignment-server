@@ -9,16 +9,16 @@
     {
         "id": 2,
         "courseName": "Distributed Algorithms",
-        "img": "https://ocw.mit.edu/courses/6-852j-distributed-algorithms-fall-2009/cbf5c77ae27ece354f52f3d12ee55431_6-852jf09.jpg",
+        "img": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/shutterstock_a-image_IoT-scaled.jpg",
         "desc": "Distributed algorithms are algorithms designed to run on multiple processors, without tight centralized control. In general, they are harder to design and harder to understand than single-processor sequential algorithms. Distributed algorithms are used in many practical systems, ranging from large computer networks to multiprocessor shared-memory systems. They also have a rich theory, which forms the subject matter for this course.",
         "instractor": "Prof. Nancy Lynch"
     },
     {
         "id": 3,
-        "courseName": "Information and Entropy",
-        "img": "https://slideplayer.com/slide/1663636/7/images/17/Information+Entropy+For+a+Bernoulli+trial+%28X+%3D+%7B0%2C1%7D%29+the+graph+of+entropy+vs..jpg",
-        "desc": "This course explores the ultimate limits to communication and computation, with an emphasis on the physical nature of information and information processing. Topics include: information and computation, digital signals, codes and compression, applications such as biological representations of information, logic circuits, computer architectures, and algorithmic information, noise, probability, error correction, reversible and irreversible operations, physics of computation, and quantum computation.",
-        "instractor": "Prof. Paul Penfield"
+        "courseName": "Quantum Information Science",
+        "img": "https://www.classcentral.com/report/wp-content/uploads/2022/01/quantum-course-review-banner.png",
+        "desc": "This is an advanced graduate course on quantum computation and quantum information, for which prior knowledge of quantum mechanics is required. Topics include quantum computation, advanced quantum error correction codes, fault tolerance, quantum algorithms beyond factoring, properties of quantum entanglement, and quantum protocols and communication complexity..",
+        "instractor": "Prof. Peter Shor"
     },
     {
         "id": 4,
